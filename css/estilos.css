@@ -1,0 +1,35 @@
+body{
+    color: rgb(83, 79, 79);
+    text-align: center;
+    font-family:  "Lucida Console", Courier, monospace;
+    font-size: 20px;
+    margin: 0;
+    padding: 0;
+    background: rgb(190, 166, 190);
+}
+
+#cabecera {
+    background: purple;
+    box-shadow: px,2px,20px 0px black;
+    color: rgb(9, 255, 0);
+    margin: 0;
+    padding: 0.5cm;
+}
+
+#cabecera #tagline {
+    padding: 0 0 0 1cm;
+    font-weight: normal;
+    font-size: 0.8cm;
+}
+
+#container {
+    width: 70%;
+    padding: 1cm;
+    text-align: left;
+    border: 2px solid black;
+    margin: 0 auto;
+}
+
+#container h1 {
+    font-size: 50px;
+}
